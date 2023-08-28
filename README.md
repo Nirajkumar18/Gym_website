@@ -1,1 +1,1 @@
-# Gym_website
+This website has a user-friendly interface. This implies that the user should be able to use the gym website design without having to think about it. The user experience includes a responsive design. This means that your fitness website should be mobile-friendly and adapt to the user's device automatically. For those unfamiliar with the concept of responsive fitness web design, it simply implies that a website looks attractive. It's important to have a responsive website, especially for fitness-related firms.
